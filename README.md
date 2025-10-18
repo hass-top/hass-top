@@ -26,15 +26,20 @@
 
 ## 🙋‍♂️ About me
 
-I'm  from  tunisia currently  in morroco  study  at  ensam casablanca i  like to  learn about every think  about this 
-box of electricity <<  pc  >> , from motherboard to  kernal  to to  to  you  now  , and  now  i  want  to  learn  about  secuirty and  penetration  testing  so  any  one that want to  work togather  or  collaborate  in some  project  [[ i'am ready to  communicate from  any place in the world ]] 
-ohh and i  enjoy working on security project with python , c and  bash  for  now 
+I'm from Tunisia, currently in Morocco, studying at ENSAM Casablanca.
+I like to learn everything about this box of electricity << PC >>, from the motherboard to the kernel to… well, you know 😅. Right now, I want to learn more about security and penetration testing.Anyone who wants to work together or collaborate on some projects — **I’m ready to communicate from anywhere in the world** 🌍.  
+
+Oh, and I enjoy working on security projects with **Python, C, and Bash** for now.  
+
 
 ## I'm currently working on
-on a  home lab for my  penetration  testing || and idea to  create  a firewall  like ufw but  with other feature  
+- A **home lab** for my penetration testing 🛠️  
+- An idea to create a **firewall** like `ufw` but with extra features 🔥  
 
 ## I’m currently learning
-docker  || ai//ml(basic)||MongoDB 
+- 🐳 Docker  
+- 🤖 AI / ML (basics)  
+- 🍃 MongoDB  
 
 
 
