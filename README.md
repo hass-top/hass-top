@@ -1,45 +1,38 @@
-## Hi there 👋 I'm Hassine Trigui
+Hi there 👋
 
-```
+I'm Snofy, a feature cybersecurity analyst. For now, I am a student of cybersecurity engineering in Morocco.
 
-                  -`                     hassine@archlinux//debian user
-                 .o+`                    Packages: a student in cybersecuirty 
-                `ooo/                               |-> & cloud computing 
-               `+oooo:                   
-              `+oooooo:                  
-              -+oooooo+:                 
-            `/:-:++oooo+:                
-           `/++++/+++++++:               
-          `/++++++++++++++:              
-         `/+++ooooooooooooo/`            
-        ./ooosssso++osssssso+`           
-       .oossssso-````/ossssss+`          
-      -osssssso.      :ssssssso.         
-     :osssssss/        osssso+++.        
-    /ossssssss/        +ssssooo/-        
-  `/ossssso+/:-        -:/+osssso+-      
- `+sso+:-`                 `.-/+oso:     
-`++:.                           `-/+/    
-.`                                 `/          
-```
+For now, I discover something new every day. My weakness is not making so many projects because of lack of time and organization, and at the same time I want to explore dev, network, AI, DBA, and all related computer science fields.
+
+From now on, I choose to focus on myself in the cybersecurity and development fields.
+
+My main techs are HTML, CSS, JS, Bootstrap, FastAPI, and Django.
+
+My dream is to build a good project to reach 100 followers in the future, and start making courses to communicate and discover new friends.
+
+True fact:
+
+-  I like cats, not dogs.
+
+-  I want some stress to boost my life (stability is my enemy).
+
+-  I like anime (JJK for now) and going outside, especially with friends.
+
+-  Hobbies: anime, learning to say no.
 
 
-## 🙋‍♂️ About me
+## 🛠️ Languages and Tools
 
-I'm from Tunisia, currently in Morocco, studying at ENSAM Casablanca.
-I like to learn everything about this box of electricity << PC >>, from the motherboard to the kernel to… well, you know 😅. Right now, I want to learn more about security and penetration testing.Anyone who wants to work together or collaborate on some projects — **I’m ready to communicate from anywhere in the world** 🌍.  
+### Cybersecurity Stack
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-045CE8?style=for-the-badge&logo=Metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Oh, and I enjoy working on security projects with **Python, C, and Bash** for now.  
 
 
-## I'm currently working on
-- A **home lab** for my penetration testing 🛠️  
-- An idea to create a **firewall** like `ufw` but with extra features 🔥  
 
-## I’m currently learning
-- 🐳 Docker  
-- 🤖 AI / ML (basics)  
-- 🍃 MongoDB  
 
 
 
